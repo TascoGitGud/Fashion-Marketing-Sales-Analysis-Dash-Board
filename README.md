@@ -207,7 +207,7 @@ The reporting schema is integrated within Power BI using a Star Schema structure
   <img src="Images/Page_05.png" width="100%">
 </p>
 
-- `AUDREY SHIRT LAL new` campaigns brought in **~427M VND** in Ads Revenue from only **47M VND** spent, making them the top performers in the portfolio. Several smaller campaigns with just **5-7M VND** in spend also showed strong Ads Revenue but have not been scaled up yet, which is a missed opportunity. However, whether this Ads Revenue translates into actual product profit will be a key question examined in the **SKU Performance page**.
+- `AUDREY SHIRT LAL new` campaigns brought in **~427M VND** in Ads Revenue from only **47M VND** spent, making them the top performers in the portfolio. Several smaller campaigns with just **5-7M VND** in spend also showed strong Ads Revenue but have not been scaled up yet, which is a missed opportunity. However, whether this Ads Revenue translates into actual product profit will be a key question examined in the **SKU Performance** page.
 
 ---
 
@@ -223,7 +223,7 @@ The reporting schema is integrated within Power BI using a Star Schema structure
 
 - **Membership tier** customers made up the large majority of revenue and orders across both channels. Silver VIP, Platinum VIP, Gold VIP, and Diamond VIP tiers contributed very little, showing a big opportunity to move more customers up the loyalty tiers.
 
-- `Audrey Shirt 3`, `Lisa Dress 5` and `Audrey Shirt 1` were the top 3 revenue products across both channels. How profitable they actually are will be looked at more closely in the **SKU Performance page**.
+- `Audrey Shirt 3`, `Lisa Dress 5` and `Audrey Shirt 1` were the top 3 revenue products across both channels. How profitable they actually are will be looked at more closely in the **SKU Performance** page.
 
 - `Hà Nội` led all cities at **24.3%** of revenue but only a **9.04%** margin. `HCM` was second at **12.65%** with an even lower **6.9%** margin. Smaller cities like `Ninh Bình` **(17.4%)**, `Lâm Đồng` **(15.3%)**, and `Khánh Hòa` **(11.4%)** actually had much better margins despite lower sales. `Kon Tum` **(-27.3%)** and `Trà Vinh` **(-14.3%)** are currently showing the lowest profit margins.
 
@@ -239,7 +239,7 @@ The reporting schema is integrated within Power BI using a Star Schema structure
 
 - `Váy Chiết Eo Xoè` led all categories with **31.17%** of total revenue, a **20.4% profit margin**, and nearly **1B VND** in Ads Revenue. It is clearly the strongest category in the portfolio.
 
-- As mentioned in the **Channel Performance page**, `Audrey Shirt 3`, `Lisa Dress 5` and `Audrey Shirt 1` were the top 3 revenue products, but the numbers here tell a different story: `Audrey Shirt 3` is actually losing **75M VND** in profit; `Audrey Shirt 1` is  losing **50M VND** in profit with a ROAS of only **9.1** . `Lisa Dress 5` is the real winner, with **52M VND** profit and ROAS of **68.7**.
+- As mentioned in the **Channel Performance** page, `Audrey Shirt 3`, `Lisa Dress 5` and `Audrey Shirt 1` were the top 3 revenue products, but the numbers here tell a different story: `Audrey Shirt 3` is actually losing **75M VND** in profit; `Audrey Shirt 1` is  losing **50M VND** in profit with a ROAS of only **9.1** . `Lisa Dress 5` is the real winner, with **52M VND** profit and ROAS of **68.7**.
 
 <p align="center">
   <img src="Images/Page_06_.png" width="100%">
